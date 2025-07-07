@@ -1,4 +1,10 @@
 title: RR API Docs via Jekyll
 description: Intro
 markdown: kramdown
-theme: tactile
+
+# Use remote_theme instead of theme:
+remote_theme: "pages-themes/tactile@v0.2.0" # This is the correct value for Tactile
+
+# Add the plugins section if it's not there, and list jekyll-remote-theme
+plugins:
+  - jekyll-remote-theme
