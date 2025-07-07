@@ -1,5 +1,5 @@
 yaml
 title: RR API Docs via Jekyll
-description: This is a demo site for building API documentation with Jekyll
+description: demo site
 markdown: kramdown
 theme: minima
