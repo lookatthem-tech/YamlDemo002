@@ -8,5 +8,3 @@ remote_theme: "pages-themes/tactile@v0.2.0" # This is the correct value for Tact
 # Add the plugins section if it's not there, and list jekyll-remote-theme
 plugins:
   - jekyll-remote-theme
-  
-baseurl: "/YamlDemo002" # IMPORTANT: Replace with the actual name of your GitHub repository (e.g., "/my-api-docs")
